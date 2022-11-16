@@ -1,8 +1,26 @@
-body {background-color: rgb(240, 250, 250);}
-h1   {
-    color: violet;
-    text-align: center;
-
+body {
+    background-color: rgb(241, 250, 240);
+    margin-left: auto;
+    margin-right: auto;
 }
-p    {color: red;}
 
+
+.container {
+    display:flex;
+  }
+ 
+  .center-block {
+    float: none;
+
+  }
+
+  .center-block {
+    background-color: orange;
+  }
+
+  .col-center {
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
